@@ -5,7 +5,7 @@
     "name": "vmxnet3",
     "description": "Adds VMware vmxnet3 virtual NIC driver Support",
     "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/vmxnet3",
+    "packer_url": "https://github.com/aw0o/rp-ext/tree/main/vmxnet3",
     "help_url": "<todo>"
   },
   "releases": {
@@ -27,7 +27,7 @@
     "ds3622xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_42218.json",
     "ds3622xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_42218.json",
     "ds3622xsp_64216": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_64216.json",
-    "dva3221_64570": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_64216.json",
+    "dva3221_64570": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/dva3221_64570.json",
     "rs4021xsp_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_42218.json",
     "rs4021xsp_42621": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_42218.json",
     "rs4021xsp_42218": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/ds3622xsp_42218.json",
